@@ -1,0 +1,162 @@
+/*FONTES*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display:wght@700&display=swap');
+
+
+:root {
+  --fonte-titulos: 'Playfair Display', serif;
+  --fonte-textos: 'Open Sans', sans-serif;
+  --branco-principal: #FFFFFF;
+  --preto-texto:  #0B1D03;
+  --cinza-titulo-cafe: #A0996C;
+  --cinza-preco-menor-cafe: #969696;
+  --branco-texto-secundario: #FFFCF6;
+  --preto-footer: #1F1F1F;
+  --background-footer: #F7F1E6;
+  --background-icones: #FFFCF6;
+  --background-pacotes-cafe: #F7F1E6;
+  --background-body: #F5F5F5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+.organizar_item{
+  width: 100vh;
+  border: 1px solid black;
+  padding: 64px 79px 120px 79px;
+}
+
+.item{
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+  display: flex;
+  justify-content:space-around;
+
+}
+
+
+
+body {
+  background-color: var(--background-body);
+  
+}
+
+.principal{
+  background-image: url("/assets/header/principal.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  
+}
+
+.container{
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 50% 50%;
+
+  
+
+}
+
+.container__titulo{
+  color: var(--branco-principal);
+  font-family: var(--fonte-titulos);
+  font-size: 80px;
+  font-weight: 700;
+
+}
+*/
+/*SECTION: CONTAINER SECUNDARIO DAS IMAGENS OPOSTAS
+.secundario{
+  
+  align-items: center;
+  margin: 0 5em 5em 5em;
+}
+
+.secundario__imagem{
+  width: 70%;
+}
+
+.descricao__titulo{
+  font-weight: 700;
+  font-size: 56px;
+  color: var(--preto-texto);
+  margin-bottom: 0;
+}
+
+.descricao__texto{
+  color: var(--preto-texto);
+}
+*/
+
+
+
+/*
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10%;
+}
+.cards {
+  width: 200px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+*/
+/*
+.variedades{
+   display: flex;
+  justify-content: center;
+  width: 500px;
+  margin: 0 auto;
+  border: 5px solid red;
+}
+
+
+.pacote-cafe{
+  width: 172px;
+  height: 216px;
+}
+
+.cards{
+width: 459px;
+height: 560px;
+border-radius: 8px;
+
+
+/* Coffee / Grey 2 
+background: #F7F1E6;
+border-radius: 8px;
+}
+
+h3{
+  font-size: 24px;
+}
+.texto-card{
+height: 28px;
+width: 280px;
+
+}
+
+.botao-carrinho-texto{
+  font-size: 20px;
+}
+
+.botao-carrinho{
+  background: gray;
+    border: 0;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+*/
